@@ -1,0 +1,44 @@
+<!DOCTYPE html
+<html>
+<head>    
+  <title>Header</title>
+  <link  href="css/Headerhtml.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+   <div class="header">
+     <div class="menu">
+       <ul>
+         <li><i class="fa fa-home"></i>&nbsp;Home</li>
+         <li><i class="fa fa-rss"></i>&nbsp;Blog</li>
+         <li><i class="fa fa-picture-o"></i>&nbsp;Gallery</li>
+         <li><i class="fa fa-address-book"></i>&nbsp;About Us</li>
+         <li><i class="fa fa-phone"></i>&nbsp;Contact Us</li>
+         <a class="reg" href="Sign in.html">Sign in</a>
+         <a class="reg" href="login.html">Login</a>
+         <a class="reg" href="RegistrationAccount.html">Registrationaccount</a>
+       </ul>
+     </div>
+    </div>
+  <div class="blog">
+      <div class="left-blog">
+         <div class="blog1">
+           
+           </div>
+         <div class="blog1">
+            
+           </div> 
+      </div>
+       <div class="right-blog">
+          <div class="blog3">
+            
+          </div>
+       </div>
+       <div class="center-blog">
+          <div class="blog4">
+           
+          </div>
+       </div>
+   </div>
+</body>
+</html>
